@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>strQQurl = [NSURL URLWithString:@"https://www.onlineservice-hk.com/k800/chatClient/chatbox.jsp?companyID=209&amp;s=1&amp;enterurl=http%3A%2F%2Fwww%2E24k%2Ehk%2Findex%2Ehtml&amp;tm=1346658342836"];// http://wpd.b.qq.com/page/webchat.html?nameAccount=800018282 http://webchat.b.qq.com/webchat.htm?sid=800018282</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A9E95DA1-2057-4C37-A3A2-8C5F4176DB2A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>qqUrl</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
